@@ -4,7 +4,7 @@
 
 I created this project to practice React and working with APIs in JavaScript. This project uses the [REST Countries API](https://restcountries.eu/) to get countries information. The project has been created by using the [create-react-app](https://github.com/facebook/create-react-app). It's still a work in progress and I will probably add some more features and animations down the line.
 
-Link of the webpage: 
+Link of the webpage: [Click Here](https://styamsingh.github.io/where-in-the-world/)
 
 To run this project locally:
 
